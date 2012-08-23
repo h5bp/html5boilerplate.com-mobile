@@ -3,20 +3,13 @@
 
 # TEAM
 
+    Alex Gibson -- @alex_gibson
     Nicolas Gallagher -- @necolas
-    Paul Irish -- @paul_irish
-    Divya Manian -- @divya
-    Mathias Bynens -- @mathias
-    Hans Christian Reinl -- @drublic
-
-# THANKS
-
-    Mickael Daniel -- @mklabs
-    Catalin Maris -- @alrra
+    Shi Chuan -- @shichuan
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     Normalize.css, HTML5 Boilerplate, Grunt
 
-    Source: https://github.com/h5bp/html5boilerplate.com
+    Source: https://github.com/h5bp/mobileboilerplate.com
