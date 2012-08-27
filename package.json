@@ -1,20 +1,20 @@
 {
-    "name": "html5boilerplate-com",
-    "description": "Website for the HTML5 Boilerplate project",
+    "name": "mobileboilerplate-com",
+    "description": "Website for the Mobile Boilerplate project",
     "version": "1.0.0",
     "author": "Nicolas Gallagher (http://nicolasgallagher.com/)",
-    "homepage": "http://html5boilerplate.com",
+    "homepage": "http://mobileboilerplate.com",
     "repository": {
         "type": "git",
-        "url": "https://github.com/h5bp/html5boilerplate.com.git"
+        "url": "https://github.com/h5bp/mobileboilerplate.com.git"
     },
     "bugs": {
-        "url" : "https://github.com/h5bp/html5boilerplate.com/issues"
+        "url" : "https://github.com/h5bp/mobileboilerplate.com/issues"
     },
     "licenses": [
         {
             "type": "MIT",
-            "url": "https://github.com/h5bp/html5boilerplate.com/blob/master/LICENSE"
+            "url": "https://github.com/h5bp/mobileboilerplate.com/blob/master/LICENSE"
         }
     ],
     "dependencies": {
