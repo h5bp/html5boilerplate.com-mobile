@@ -1,5 +1,8 @@
 before_script:
     - travis_retry npm install -g grunt-cli
+branches:
+    except:
+        - server-content
 language: node_js
 node_js:
     - "0.10"
