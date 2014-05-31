@@ -199,4 +199,9 @@ module.exports = function (grunt) {
         'watch'
     ]);
 
+    grunt.registerTask('test', [
+        'jshint',
+        'build'
+    ]);
+
 };
