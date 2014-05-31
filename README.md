@@ -1,5 +1,8 @@
 # [mobileboilerplate.com](http://mobileboilerplate.com/) source code
 
+[![Build Status](https://travis-ci.org/h5bp/mobileboilerplate.com.svg)](https://travis-ci.org/h5bp/mobileboilerplate.com)
+[![devDependency Status](https://david-dm.org/h5bp/mobileboilerplate.com/dev-status.svg)](https://david-dm.org/h5bp/mobileboilerplate.com#info=devDependencies)
+
 The Mobile Boilerplate website is a simple static site.
 
 * The development code is in the `src` directory.
