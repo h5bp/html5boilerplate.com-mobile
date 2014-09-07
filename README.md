@@ -1,7 +1,7 @@
 # [mobileboilerplate.com](http://mobileboilerplate.com/)
 
-[![Build Status](https://travis-ci.org/h5bp/mobileboilerplate.com.svg)](https://travis-ci.org/h5bp/mobileboilerplate.com)
-[![devDependency Status](https://david-dm.org/h5bp/mobileboilerplate.com/dev-status.svg)](https://david-dm.org/h5bp/mobileboilerplate.com#info=devDependencies)
+[![Build Status](https://travis-ci.org/h5bp/html5boilerplate.com-mobile.svg)](https://travis-ci.org/h5bp/html5boilerplate.com-mobile)
+[![devDependency Status](https://david-dm.org/h5bp/html5boilerplate.com-mobile/dev-status.svg)](https://david-dm.org/h5bp/html5boilerplate.com-mobile#info=devDependencies)
 
 The HTML5 Boilerplate website is a simple static site.
 
