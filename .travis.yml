@@ -1,8 +1,15 @@
+# For more information about the configurations used
+# in this file, please see the Travis CI documentation:
+# http://docs.travis-ci.com
+
 before_script:
-    - travis_retry npm install -g grunt-cli
+  - travis_retry npm install -g grunt-cli
+
 branches:
-    except:
-        - server-content
+  except:
+    - server-content
+
 language: node_js
+
 node_js:
-    - "0.10"
+  - "0.10"
