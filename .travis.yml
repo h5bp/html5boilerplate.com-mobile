@@ -9,6 +9,9 @@ branches:
   except:
     - server-content
 
+git:
+  depth: 10
+
 language: node_js
 
 node_js:
