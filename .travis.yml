@@ -14,7 +14,6 @@ branches:
 
 env:
   global:
-    - GH_REPO: "h5bp/html5boilerplate.com-mobile"
     - GH_SERVER_BRANCH: "server-content"
     - secure: "LisKONLxvtug/s7/5opPKGV54qQfmqExQk3u0XYODhJeKQwGv7+pp9eHA7YLe5wJofcQpO9MlQQi+EqH/jp0SnywFdl+AuuJfU1E1W/QxNmYOIPY8ZoADBi97hodtfP+yWAuK/9JxZJpXro1B/7nhEAq4zfpj1BNetKFxpE7L80="
 
