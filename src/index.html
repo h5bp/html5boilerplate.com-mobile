@@ -229,7 +229,7 @@
                     });
 
                     // In case `hitCallback` takes to long
-                    timeout = usetTimeout(function () {
+                    timeout = setTimeout(function () {
                         if ( category === 'Outbound links' ) {
                             window.location.href = url;
                         }
