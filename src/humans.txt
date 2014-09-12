@@ -10,6 +10,6 @@
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Grunt, HTML5 Boilerplate, jQuery, Normalize.css
+    Apache Server Configs, Grunt, HTML5 Boilerplate, jQuery, Normalize.css
 
     Source: https://github.com/h5bp/mobileboilerplate.com
