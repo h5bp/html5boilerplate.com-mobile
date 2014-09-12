@@ -57,7 +57,7 @@ module.exports = function (grunt) {
                     // Automatically open the webpage in the default browser
                     open: true
                 }
-            },
+            }
         },
 
         copy: {
@@ -112,7 +112,7 @@ module.exports = function (grunt) {
         htmlmin: {
             build: {
                 files: {
-                    '<%= settings.dir.dist %>/index.html': '<%= settings.dir.dist %>/index.html',
+                    '<%= settings.dir.dist %>/index.html': '<%= settings.dir.dist %>/index.html'
                     // DO NOT minify the 404 page! (the page needs to have more
                     // than 512 bytes in order for IE to display it)
                     // http://www.404-error-page.com/404-error-page-too-short-problem-microsoft-ie.shtml
@@ -162,7 +162,7 @@ module.exports = function (grunt) {
                 files: '<%= settings.dir.src %>/js/*.js',
                 tasks: 'jshint',
                 options: {
-                    spawn: false,
+                    spawn: false
                 }
             }
         }
