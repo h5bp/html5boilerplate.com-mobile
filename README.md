@@ -1,4 +1,4 @@
-# [mobileboilerplate.com](http://mobileboilerplate.com/)
+# [html5boilerplate.com/mobile](http://html5boilerplate.com/mobile)
 
 [![Build Status](https://travis-ci.org/h5bp/html5boilerplate.com-mobile.svg)](https://travis-ci.org/h5bp/html5boilerplate.com-mobile)
 [![devDependency Status](https://david-dm.org/h5bp/html5boilerplate.com-mobile/dev-status.svg)](https://david-dm.org/h5bp/html5boilerplate.com-mobile#info=devDependencies)
