@@ -48,7 +48,7 @@ module.exports = function (grunt) {
                                         // alternate to port 80 (default port
                                         // for HTTP), and it doesn't require
                                         // root access:
-                                        // http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
+                                        // https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
             },
             livereload: {
                 options: {

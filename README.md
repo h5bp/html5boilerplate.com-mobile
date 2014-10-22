@@ -9,7 +9,7 @@ The HTML5 Boilerplate website is a simple static site.
   [`src`](https://github.com/h5bp/mobileboilerplate.com/tree/master/src)
   directory.
 * The build process relies on [Grunt](http://gruntjs.com) (a
-  [Node.js](http://nodejs.org) task runner).
+  [Node.js](https://nodejs.org) task runner).
 * The Grunt configurations can be found in the
   [`Gruntfile.js`](https://github.com/h5bp/mobileboilerplate.com/blob/master/Gruntfile.js)
   file.
