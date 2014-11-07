@@ -3,7 +3,7 @@
 # http://docs.travis-ci.com
 
 after_success:
-  - curl -sSL "https://raw.githubusercontent.com/h5bp-bot/scripts/0.2.0/update_site_branch.sh" |
+  - curl -sSL "https://raw.githubusercontent.com/h5bp-bot/scripts/0.2.1/update_site_branch.sh" |
       bash /dev/stdin "dist" "server-content" "Hey server, this content is for you!"
 
 before_script:
@@ -15,7 +15,7 @@ branches:
 
 env:
   global:
-    - secure: "LisKONLxvtug/s7/5opPKGV54qQfmqExQk3u0XYODhJeKQwGv7+pp9eHA7YLe5wJofcQpO9MlQQi+EqH/jp0SnywFdl+AuuJfU1E1W/QxNmYOIPY8ZoADBi97hodtfP+yWAuK/9JxZJpXro1B/7nhEAq4zfpj1BNetKFxpE7L80="
+    - secure: "QWK+gElKfZ+lNo0fvKAbiBr8fShLylHUWZxireWKwDrt+fQ87AFY7DFpXRzdJPZXuzxBB6XpAgPC2xH1hnctBx3OQXWIOWzQSbhMpOzoxE8S/keM9ckYBZAAFFs8tfP3Kz1zFFuiEbhpOlKCSzq73GLJMVd0enUJkP0RJu3pwyU="
 
 git:
   depth: 10
