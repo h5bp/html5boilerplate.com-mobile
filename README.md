@@ -40,5 +40,5 @@ correct by running `grunt test` and then checking the output.
 
 This step is done automatically: the server will
 [periodically pull](https://github.com/h5bp/html5boilerplate.com/wiki) from
-the `server-content` branch, branch that will be updated by Travis CI every
-time a commit is pushed to the `master` branch and the tests pass.
+the `gh-pages` branch, branch that will be updated by Travis CI every time a
+commit is pushed to the `master` branch and the tests pass.
