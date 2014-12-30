@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Nicolas Gallagher -- @necolas
+    Shi Chuan -- @shichuan
+
+# PAST TEAM MEMBERS:
+
+    Alex Gibson -- @alex_gibson
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, Grunt, HTML5 Boilerplate, jQuery, Normalize.css
+
+    Source: https://github.com/h5bp/mobileboilerplate.com
