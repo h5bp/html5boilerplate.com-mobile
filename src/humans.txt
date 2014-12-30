@@ -3,9 +3,12 @@
 
 # TEAM
 
-    Alex Gibson -- @alex_gibson
     Nicolas Gallagher -- @necolas
     Shi Chuan -- @shichuan
+
+# PAST TEAM MEMBERS:
+
+    Alex Gibson -- @alex_gibson
 
 # TECHNOLOGY COLOPHON
 
